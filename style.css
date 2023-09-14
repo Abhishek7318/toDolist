@@ -110,9 +110,12 @@ p{
   .box{
     width: 300px;
   }
+  input{
+    position: relative;
+    height: 41px;
+  }
    button{
-     position: relative;
-     right: 115px;
+     position: absolute;
      right: 26px;
      padding: 10px 20px;
    }
