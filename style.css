@@ -106,3 +106,13 @@ p{
     text-align: center;
     padding-top: 30px;
 }
+@media (max-width:360px){
+  .box{
+    width: 300px;
+  }
+   button{
+     position: relative;
+     right: 25px;
+     padding: 10px 20px;
+   }
+} 
