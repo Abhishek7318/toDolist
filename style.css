@@ -112,7 +112,33 @@ p{
   }
    button{
      position: relative;
-     right: 25px;
+     right: 115px;
      padding: 10px 20px;
    }
 } 
+
+@media (max-width:308px){
+  .box{
+    width: 250px;
+  }
+   button{
+     position: relative;
+     right: 125px;
+   }
+   .add{
+    padding: 10px 20px;
+   }
+} 
+
+@media (max-width:256px){
+    .box{
+      width: 225px;
+    }
+     button{
+       position: relative;
+       right: 129px;
+     }
+     .add{
+      padding: 10px 10px;
+     }
+  } 
