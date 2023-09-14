@@ -112,7 +112,11 @@ p{
   }
    button{
      position: relative;
+<<<<<<< HEAD
      right: 115px;
+=======
+     right: 26px;
+>>>>>>> fe9013f903012256ec0557fbdcb158c69e5d60fd
      padding: 10px 20px;
    }
 } 
